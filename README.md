@@ -46,4 +46,4 @@ Estou focada em **aprender na prática** e desenvolver soluções que aumentem a
 [![DIO](https://img.shields.io/badge/DIO-0078D4?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.dio.me/users/dgomes_2013)
 
 
-- 📧 E-mail: dgomes_2013@hotmail.com
+📧 E-mail: dgomes_2013@hotmail.com
