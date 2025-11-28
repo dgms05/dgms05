@@ -36,7 +36,7 @@ Meu objetivo é contribuir com equipes de tecnologia, unindo minha experiência 
 Documentação completa de QA Manual do desafio **O Dia a Dia de um QA**.  
 Inclui: mind map, user stories, fluxos, casos de teste e ciclo de testes.  
 
-🔗 **Repositório:** *adicione o link aqui* 
+🔗 **Repositório:** *[https://github.com/dgms05/my-DIO-SwagLabs-QA-Project]* 
 
 ---
 
