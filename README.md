@@ -15,10 +15,30 @@ Meu objetivo é contribuir com equipes de tecnologia, unindo minha experiência 
 
 ## 📱 Habilidades & Ferramentas  
 
-- **Testes de Software:** Manuais | Automação (Selenium, Cypress)  
-- **Programação:** Python, JavaScript, C  
-- **Ferramentas:** SAP, TOTVS, Power BI, Excel  
-- **Soft Skills:** Comunicação, colaboração, adaptabilidade, foco em qualidade  
+### 🔧 Testes de Software  
+- Testes manuais e exploratórios  
+- Casos de teste (Step-by-step e BDD)  
+- Gherkin  
+- Ciclo de testes e reporte de bugs  
+- Automação (iniciante): Selenium, Cypress, JavaScript, Python 
+- Jira | Confluence | Zephyr  
+- Miro / XMind  
+- Postman  
+
+### 🌱 Soft Skills  
+- Comunicação, organização, foco em qualidade  
+
+---
+
+## 📂 Projeto em Destaque  
+
+### ⭐ **myDIOSwagLabsQAProject**  
+Documentação completa de QA Manual do desafio **O Dia a Dia de um QA**.  
+Inclui: mind map, user stories, fluxos, casos de teste e ciclo de testes.  
+
+🔗 **Repositório:** *adicione o link aqui* 
+
+---
 
 ## 🚀 O que me motiva  
 
