@@ -1,8 +1,10 @@
 # Olá! Eu sou Daiane Gomes (dgms05) 👋
 
-Em transição de carreira da área financeira para tecnologia, atualmente estudo **Análise e Desenvolvimento de Sistemas** e direciono meus esforços para a área de **Quality Assurance (QA)**. Tenho interesse em testes manuais, automação (Selenium, Cypress) e metodologias ágeis (Scrum, Kanban).  
+Sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira para a área de tecnologia, com foco em Qualidade de Software e Testes (QA).
 
-Meu objetivo é contribuir com equipes de tecnologia, unindo minha experiência analítica e atenção aos detalhes para garantir a entrega de soluções de qualidade. 🚀
+Possuo conhecimentos em testes manuais, fundamentos de automação de testes, Java, Python, SQL e metodologias ágeis. Venho desenvolvendo projetos práticos voltados à qualidade de software, aplicando boas práticas de QA e validação de sistemas. Minha experiência anterior na área financeira fortaleceu habilidades essenciais para QA, como pensamento analítico, atenção aos detalhes e foco em qualidade.
+
+Busco uma oportunidade em TI/QA, onde eu possa aprender na prática, colaborar com o time e evoluir profissionalmente, contribuindo para a entrega de soluções confiáveis e de qualidade.
 
 ## 🏢 Experiência Relevante 
 
@@ -32,7 +34,7 @@ Meu objetivo é contribuir com equipes de tecnologia, unindo minha experiência 
 
 ## 📂 Projeto em Destaque  
 
-### ⭐ **myDIOSwagLabsQAProject**  
+### ⭐ **my-DIO-SwagLabs-QA-Project**  
 Documentação completa de QA Manual do desafio **O Dia a Dia de um QA**.  
 Inclui: mind map, user stories, fluxos, casos de teste e ciclo de testes.  
 
